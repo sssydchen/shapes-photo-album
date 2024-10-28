@@ -1,0 +1,28 @@
+# this doesn't render well with svg
+shape sky rectangle 0 0 1000 500 0 191 255
+shape ground rectangle 0 500 1000 100 124 252 0
+shape court rectangle 0 600 1000 150 152 23 23
+shape hoop1 rectangle 950 560 20 100 187 187 187
+shape hoop2 rectangle 930 540 20 20 187 187 187
+shape hoop3 rectangle 910 520 20 20 187 187 187
+shape backboard rectangle 895 470 15 80 246 254 255
+shape ball oval 20 550 30 30 238 103 48
+shape rim oval 860 525 35 5 250 131 32
+shape net1 oval 860 530 5 35 246 254 255
+shape net2 oval 868 530 5 35 246 254 255
+shape net3 oval 876 530 5 35 246 254 255
+shape net4 oval 884 530 5 35 246 254 255
+shape net5 oval 860 535 30 3 246 254 255
+shape net6 oval 860 545 30 3 246 254 255
+shape net7 oval 860 555 30 3 246 254 255
+snapshot shot released!
+move ball 150 450
+snapshot it's in the air!
+move ball 350 400
+snapshot the arch looks good!
+move ball 530 380
+snapshot everyone's holding their breath!
+move ball 780 450
+snapshot for the win!
+# move ball 860 520
+snapshot Jordan wins it!
